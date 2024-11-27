@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/1222b/Documents/sentimentanalysis/mlruns/198946398577118978/917af6a4c31d491781ea7ecbfea5d814/artifacts
+end_time: 1732392059842
+entry_point_name: ''
+experiment_id: '198946398577118978'
+lifecycle_stage: active
+run_id: 917af6a4c31d491781ea7ecbfea5d814
+run_name: Random Forest
+run_uuid: 917af6a4c31d491781ea7ecbfea5d814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732392056796
+status: 3
+tags: []
+user_id: 1222b

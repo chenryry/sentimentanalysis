@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/1222b/Documents/sentimentanalysis/mlruns/339850992649281311/7214df6a68334646a33357d10ae0ebde/artifacts
+end_time: 1732390468751
+entry_point_name: ''
+experiment_id: '339850992649281311'
+lifecycle_stage: active
+run_id: 7214df6a68334646a33357d10ae0ebde
+run_name: unique-grub-70
+run_uuid: 7214df6a68334646a33357d10ae0ebde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732390463916
+status: 3
+tags: []
+user_id: 1222b

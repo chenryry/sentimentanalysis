@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/1222b/Documents/sentimentanalysis/mlruns/198946398577118978/e8b4085fcf554191818e1a5ca7ead921/artifacts
+end_time: 1732392056744
+entry_point_name: ''
+experiment_id: '198946398577118978'
+lifecycle_stage: active
+run_id: e8b4085fcf554191818e1a5ca7ead921
+run_name: Logistic Regression
+run_uuid: e8b4085fcf554191818e1a5ca7ead921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732392052083
+status: 3
+tags: []
+user_id: 1222b

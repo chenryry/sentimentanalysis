@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/1222b/Documents/sentimentanalysis/mlruns/198946398577118978/b21161a3abca4f1a9130c7b3d5ec1b81/artifacts
+end_time: 1732392066337
+entry_point_name: ''
+experiment_id: '198946398577118978'
+lifecycle_stage: active
+run_id: b21161a3abca4f1a9130c7b3d5ec1b81
+run_name: XGBClassifier With SMOTE
+run_uuid: b21161a3abca4f1a9130c7b3d5ec1b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732392063114
+status: 3
+tags: []
+user_id: 1222b

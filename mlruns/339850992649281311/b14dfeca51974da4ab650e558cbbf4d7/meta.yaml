@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/1222b/Documents/sentimentanalysis/mlruns/339850992649281311/b14dfeca51974da4ab650e558cbbf4d7/artifacts
+deleted_time: 1732390488548
+end_time: 1732382829466
+entry_point_name: ''
+experiment_id: '339850992649281311'
+lifecycle_stage: deleted
+run_id: b14dfeca51974da4ab650e558cbbf4d7
+run_name: resilient-chimp-99
+run_uuid: b14dfeca51974da4ab650e558cbbf4d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732382829326
+status: 4
+tags: []
+user_id: 1222b

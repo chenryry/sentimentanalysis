@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd789ce4c1254ad6ab9cc993cadffc10/artifacts
+end_time: 1732732267966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd789ce4c1254ad6ab9cc993cadffc10
+run_name: TFIDF Random Forest
+run_uuid: bd789ce4c1254ad6ab9cc993cadffc10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732732260813
+status: 4
+tags: []
+user_id: 1222b
